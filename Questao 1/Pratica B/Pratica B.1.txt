@@ -1,0 +1,416 @@
+23:48:27:363 : Inicializando SOsim ...
+23:48:32:331 : SOsim pronto as 23:48:32:331
+23:48:46:071 : Processo4846071 alocacao de blocos no pagefile
+23:48:46:071 : Processo4846071 HwPF - Imagem0
+23:48:46:071 : Processo4846071 HwPF - Imagem1
+23:48:46:071 : Processo4846071 HwPF - Imagem2
+23:48:46:071 : Processo4846071 HwPF - Imagem3
+23:48:46:071 : Processo4846071 HwPF - Imagem4
+23:48:46:071 : Processo4846071 criado
+23:48:52:289 : Processo4852289 alocacao de blocos no pagefile
+23:48:52:289 : Processo4852289 HwPF - Imagem0
+23:48:52:352 : Processo4852289 HwPF - Imagem1
+23:48:52:352 : Processo4852289 HwPF - Imagem2
+23:48:52:352 : Processo4852289 HwPF - Imagem3
+23:48:52:383 : Processo4852289 HwPF - Imagem4
+23:48:52:383 : Processo4852289 criado
+23:48:54:011 : Processo4846071 Pronto -> Exec
+23:48:54:561 : Processo4846071 Executando -> Pronto por tempo
+23:48:55:574 : Processo4846071 Pronto -> Exec
+23:48:56:576 : Processo4846071 Executando -> Pronto por tempo
+23:48:57:580 : Processo4846071 Pronto -> Exec
+23:48:58:584 : Processo4846071 Executando -> Pronto por tempo
+23:48:59:593 : Processo4846071 Pronto -> Exec
+23:49:00:604 : Processo4846071 Executando -> Pronto por tempo
+23:49:01:610 : Processo4846071 Pronto -> Exec
+23:49:02:612 : Processo4846071 Executando -> Pronto por tempo
+23:49:03:622 : Processo4846071 Pronto -> Exec
+23:49:04:625 : Processo4846071 Executando -> Pronto por tempo
+23:49:05:629 : Processo4846071 Pronto -> Exec
+23:49:06:645 : Processo4846071 Executando -> Pronto por tempo
+23:49:07:650 : Processo4846071 Pronto -> Exec
+23:49:08:653 : Processo4846071 Executando -> Pronto por tempo
+23:49:09:666 : Processo4846071 Pronto -> Exec
+23:49:10:668 : Processo4846071 Executando -> Pronto por tempo
+23:49:11:675 : Processo4846071 Pronto -> Exec
+23:49:12:676 : Processo4846071 Executando -> Pronto por tempo
+23:49:13:681 : Processo4846071 Pronto -> Exec
+23:49:14:683 : Processo4846071 Executando -> Pronto por tempo
+23:49:15:684 : Processo4846071 Pronto -> Exec
+23:49:16:694 : Processo4846071 Executando -> Pronto por tempo
+23:49:17:701 : Processo4846071 Pronto -> Exec
+23:49:18:704 : Processo4846071 Executando -> Pronto por tempo
+23:49:19:709 : Processo4846071 Pronto -> Exec
+23:49:20:711 : Processo4846071 Executando -> Pronto por tempo
+23:49:21:714 : Processo4846071 Pronto -> Exec
+23:49:22:717 : Processo4846071 Executando -> Pronto por tempo
+23:49:23:730 : Processo4846071 Pronto -> Exec
+23:49:24:731 : Processo4846071 Executando -> Pronto por tempo
+23:49:25:735 : Processo4846071 Pronto -> Exec
+23:49:26:736 : Processo4846071 Executando -> Pronto por tempo
+23:49:27:737 : Processo4846071 Pronto -> Exec
+23:49:28:738 : Processo4846071 Executando -> Pronto por tempo
+23:49:29:740 : Processo4846071 Pronto -> Exec
+23:49:30:742 : Processo4846071 Executando -> Pronto por tempo
+23:49:31:757 : Processo4846071 Pronto -> Exec
+23:49:32:767 : Processo4846071 Executando -> Pronto por tempo
+23:49:33:787 : Processo4846071 Pronto -> Exec
+23:49:34:791 : Processo4846071 Executando -> Pronto por tempo
+23:49:35:791 : Processo4846071 Pronto -> Exec
+23:49:36:807 : Processo4846071 Executando -> Pronto por tempo
+23:49:37:813 : Processo4846071 Pronto -> Exec
+23:49:38:815 : Processo4846071 Executando -> Pronto por tempo
+23:49:39:829 : Processo4846071 Pronto -> Exec
+23:49:40:834 : Processo4846071 Executando -> Pronto por tempo
+23:49:41:838 : Processo4846071 Pronto -> Exec
+23:49:42:853 : Processo4846071 Executando -> Pronto por tempo
+23:49:43:858 : Processo4846071 Pronto -> Exec
+23:49:44:870 : Processo4846071 Executando -> Pronto por tempo
+23:49:45:874 : Processo4846071 Pronto -> Exec
+23:49:46:877 : Processo4846071 Executando -> Pronto por tempo
+23:49:47:878 : Processo4846071 Pronto -> Exec
+23:49:48:883 : Processo4846071 Executando -> Pronto por tempo
+23:49:49:884 : Processo4846071 Pronto -> Exec
+23:49:50:899 : Processo4846071 Executando -> Pronto por tempo
+23:49:51:903 : Processo4846071 Pronto -> Exec
+23:49:52:906 : Processo4846071 Executando -> Pronto por tempo
+23:49:53:911 : Processo4846071 Pronto -> Exec
+23:49:54:913 : Processo4846071 Executando -> Pronto por tempo
+23:49:55:917 : Processo4846071 Pronto -> Exec
+23:49:56:920 : Processo4846071 Executando -> Pronto por tempo
+23:49:57:922 : Processo4846071 Pronto -> Exec
+23:49:58:926 : Processo4846071 Executando -> Pronto por tempo
+23:49:59:929 : Processo4846071 Pronto -> Exec
+23:50:00:933 : Processo4846071 Executando -> Pronto por tempo
+23:50:01:937 : Processo4846071 Pronto -> Exec
+23:50:02:941 : Processo4846071 Executando -> Pronto por tempo
+23:50:03:945 : Processo4846071 Pronto -> Exec
+23:50:04:948 : Processo4846071 Executando -> Pronto por tempo
+23:50:05:952 : Processo4846071 Pronto -> Exec
+23:50:06:956 : Processo4846071 Executando -> Pronto por tempo
+23:50:07:971 : Processo4846071 Pronto -> Exec
+23:50:08:975 : Processo4846071 Executando -> Pronto por tempo
+23:50:09:979 : Processo4846071 Pronto -> Exec
+23:50:10:980 : Processo4846071 Executando -> Pronto por tempo
+23:50:11:983 : Processo4846071 Pronto -> Exec
+23:50:12:986 : Processo4846071 Executando -> Pronto por tempo
+23:50:13:989 : Processo4846071 Pronto -> Exec
+23:50:14:989 : Processo4846071 Executando -> Pronto por tempo
+23:50:15:991 : Processo4846071 Pronto -> Exec
+23:50:16:992 : Processo4846071 Executando -> Pronto por tempo
+23:50:17:994 : Processo4846071 Pronto -> Exec
+23:50:18:998 : Processo4846071 Executando -> Pronto por tempo
+23:50:20:001 : Processo4846071 Pronto -> Exec
+23:50:21:004 : Processo4846071 Executando -> Pronto por tempo
+23:50:22:004 : Processo4846071 Pronto -> Exec
+23:50:23:007 : Processo4846071 Executando -> Pronto por tempo
+23:50:24:010 : Processo4846071 Pronto -> Exec
+23:50:25:013 : Processo4846071 Executando -> Pronto por tempo
+23:50:26:017 : Processo4846071 Pronto -> Exec
+23:50:27:017 : Processo4846071 Executando -> Pronto por tempo
+23:50:28:019 : Processo4846071 Pronto -> Exec
+23:50:29:021 : Processo4846071 Executando -> Pronto por tempo
+23:50:30:028 : Processo4846071 Pronto -> Exec
+23:50:31:030 : Processo4846071 Executando -> Pronto por tempo
+23:50:32:045 : Processo4846071 Pronto -> Exec
+23:50:33:046 : Processo4846071 Executando -> Pronto por tempo
+23:50:34:053 : Processo4846071 Pronto -> Exec
+23:50:35:061 : Processo4846071 Executando -> Pronto por tempo
+23:50:36:074 : Processo4846071 Pronto -> Exec
+23:50:37:075 : Processo4846071 Executando -> Pronto por tempo
+23:50:38:081 : Processo4846071 Pronto -> Exec
+23:50:39:088 : Processo4846071 Executando -> Pronto por tempo
+23:50:40:090 : Processo4846071 Pronto -> Exec
+23:50:41:093 : Processo4846071 Executando -> Pronto por tempo
+23:50:42:096 : Processo4846071 Pronto -> Exec
+23:50:43:099 : Processo4846071 Executando -> Pronto por tempo
+23:50:44:100 : Processo4846071 Pronto -> Exec
+23:50:45:104 : Processo4846071 Executando -> Pronto por tempo
+23:50:46:108 : Processo4846071 Pronto -> Exec
+23:50:47:111 : Processo4846071 Executando -> Pronto por tempo
+23:50:48:113 : Processo4846071 Pronto -> Exec
+23:50:49:117 : Processo4846071 Executando -> Pronto por tempo
+23:50:50:118 : Processo4846071 Pronto -> Exec
+23:50:51:118 : Processo4846071 Executando -> Pronto por tempo
+23:50:52:118 : Processo4846071 Pronto -> Exec
+23:50:53:119 : Processo4846071 Executando -> Pronto por tempo
+23:50:54:134 : Processo4846071 Pronto -> Exec
+23:50:55:136 : Processo4846071 Executando -> Pronto por tempo
+23:50:56:136 : Processo4846071 Pronto -> Exec
+23:50:57:137 : Processo4846071 Executando -> Pronto por tempo
+23:50:58:140 : Processo4846071 Pronto -> Exec
+23:50:59:143 : Processo4846071 Executando -> Pronto por tempo
+23:51:00:146 : Processo4846071 Pronto -> Exec
+23:51:01:150 : Processo4846071 Executando -> Pronto por tempo
+23:51:02:154 : Processo4846071 Pronto -> Exec
+23:51:03:154 : Processo4846071 Executando -> Pronto por tempo
+23:51:04:158 : Processo4846071 Pronto -> Exec
+23:51:05:160 : Processo4846071 Executando -> Pronto por tempo
+23:51:06:160 : Processo4846071 Pronto -> Exec
+23:51:07:164 : Processo4846071 Executando -> Pronto por tempo
+23:51:08:167 : Processo4846071 Pronto -> Exec
+23:51:09:169 : Processo4846071 Executando -> Pronto por tempo
+23:51:10:173 : Processo4846071 Pronto -> Exec
+23:51:11:173 : Processo4846071 Executando -> Pronto por tempo
+23:51:12:173 : Processo4846071 Pronto -> Exec
+23:51:13:177 : Processo4846071 Executando -> Pronto por tempo
+23:51:14:180 : Processo4846071 Pronto -> Exec
+23:51:15:181 : Processo4846071 Executando -> Pronto por tempo
+23:51:16:186 : Processo4846071 Pronto -> Exec
+23:51:17:187 : Processo4846071 Executando -> Pronto por tempo
+23:51:18:189 : Processo4846071 Pronto -> Exec
+23:51:19:190 : Processo4846071 Executando -> Pronto por tempo
+23:51:20:192 : Processo4846071 Pronto -> Exec
+23:51:21:198 : Processo4846071 Executando -> Pronto por tempo
+23:51:22:208 : Processo4846071 Pronto -> Exec
+23:51:23:218 : Processo4846071 Executando -> Pronto por tempo
+23:51:24:221 : Processo4846071 Pronto -> Exec
+23:51:25:224 : Processo4846071 Executando -> Pronto por tempo
+23:51:26:226 : Processo4846071 Pronto -> Exec
+23:51:27:229 : Processo4846071 Executando -> Pronto por tempo
+23:51:28:229 : Processo4846071 Pronto -> Exec
+23:51:29:237 : Processo4846071 Executando -> Pronto por tempo
+23:51:30:241 : Processo4846071 Pronto -> Exec
+23:51:31:246 : Processo4846071 Executando -> Pronto por tempo
+23:51:32:259 : Processo4846071 Pronto -> Exec
+23:51:33:259 : Processo4846071 Executando -> Pronto por tempo
+23:51:34:261 : Processo4846071 Pronto -> Exec
+23:51:35:261 : Processo4846071 Executando -> Pronto por tempo
+23:51:36:265 : Processo4846071 Pronto -> Exec
+23:51:37:272 : Processo4846071 Executando -> Pronto por tempo
+23:51:38:275 : Processo4846071 Pronto -> Exec
+23:51:39:285 : Processo4846071 Executando -> Pronto por tempo
+23:51:40:300 : Processo4846071 Pronto -> Exec
+23:51:41:308 : Processo4846071 Executando -> Pronto por tempo
+23:51:42:316 : Processo4846071 Pronto -> Exec
+23:51:43:318 : Processo4846071 Executando -> Pronto por tempo
+23:51:44:325 : Processo4846071 Pronto -> Exec
+23:51:45:328 : Processo4846071 Executando -> Pronto por tempo
+23:51:46:333 : Processo4846071 Pronto -> Exec
+23:51:47:337 : Processo4846071 Executando -> Pronto por tempo
+23:51:48:352 : Processo4846071 Pronto -> Exec
+23:51:49:354 : Processo4846071 Executando -> Pronto por tempo
+23:51:50:356 : Processo4846071 Pronto -> Exec
+23:51:51:357 : Processo4846071 Executando -> Pronto por tempo
+23:51:52:359 : Processo4846071 Pronto -> Exec
+23:51:53:364 : Processo4846071 Executando -> Pronto por tempo
+23:51:54:366 : Processo4846071 Pronto -> Exec
+23:51:55:371 : Processo4846071 Executando -> Pronto por tempo
+23:51:56:374 : Processo4846071 Pronto -> Exec
+23:51:57:385 : Processo4846071 Executando -> Pronto por tempo
+23:51:58:388 : Processo4846071 Pronto -> Exec
+23:51:59:393 : Processo4846071 Executando -> Pronto por tempo
+23:52:00:397 : Processo4846071 Pronto -> Exec
+23:52:01:399 : Processo4846071 Executando -> Pronto por tempo
+23:52:02:403 : Processo4846071 Pronto -> Exec
+23:52:03:418 : Processo4846071 Executando -> Pronto por tempo
+23:52:04:420 : Processo4846071 Pronto -> Exec
+23:52:05:425 : Processo4846071 Executando -> Pronto por tempo
+23:52:06:438 : Processo4846071 Pronto -> Exec
+23:52:07:443 : Processo4846071 Executando -> Pronto por tempo
+23:52:08:445 : Processo4846071 Pronto -> Exec
+23:52:09:448 : Processo4846071 Executando -> Pronto por tempo
+23:52:10:450 : Processo4846071 Pronto -> Exec
+23:52:11:465 : Processo4846071 Executando -> Pronto por tempo
+23:52:12:469 : Processo4846071 Pronto -> Exec
+23:52:13:470 : Processo4846071 Executando -> Pronto por tempo
+23:52:14:473 : Processo4846071 Pronto -> Exec
+23:52:15:475 : Processo4846071 Executando -> Pronto por tempo
+23:52:16:477 : Processo4846071 Pronto -> Exec
+23:52:17:499 : Processo4846071 Executando -> Pronto por tempo
+23:52:18:518 : Processo4846071 Pronto -> Exec
+23:52:19:531 : Processo4846071 Executando -> Pronto por tempo
+23:52:20:534 : Processo4846071 Pronto -> Exec
+23:52:21:549 : Processo4846071 Executando -> Pronto por tempo
+23:52:22:555 : Processo4846071 Pronto -> Exec
+23:52:23:559 : Processo4846071 Executando -> Pronto por tempo
+23:52:24:562 : Processo4846071 Pronto -> Exec
+23:52:25:571 : Processo4846071 Executando -> Pronto por tempo
+23:52:26:574 : Processo4846071 Pronto -> Exec
+23:52:27:579 : Processo4846071 Executando -> Pronto por tempo
+23:52:28:582 : Processo4846071 Pronto -> Exec
+23:52:29:586 : Processo4846071 Executando -> Pronto por tempo
+23:52:30:587 : Processo4846071 Pronto -> Exec
+23:52:31:591 : Processo4846071 Executando -> Pronto por tempo
+23:52:32:594 : Processo4846071 Pronto -> Exec
+23:52:33:608 : Processo4846071 Executando -> Pronto por tempo
+23:52:34:610 : Processo4846071 Pronto -> Exec
+23:52:35:614 : Processo4846071 Executando -> Pronto por tempo
+23:52:36:630 : Processo4846071 Pronto -> Exec
+23:52:37:636 : Processo4846071 Executando -> Pronto por tempo
+23:52:38:640 : Processo4846071 Pronto -> Exec
+23:52:39:656 : Processo4846071 Executando -> Pronto por tempo
+23:52:40:669 : Processo4846071 Pronto -> Exec
+23:52:41:675 : Processo4846071 Executando -> Pronto por tempo
+23:52:42:676 : Processo4846071 Pronto -> Exec
+23:52:43:684 : Processo4846071 Executando -> Pronto por tempo
+23:52:44:684 : Processo4846071 Pronto -> Exec
+23:52:45:687 : Processo4846071 Executando -> Pronto por tempo
+23:52:46:689 : Processo4846071 Pronto -> Exec
+23:52:47:694 : Processo4846071 Executando -> Pronto por tempo
+23:52:48:706 : Processo4846071 Pronto -> Exec
+23:52:49:707 : Processo4846071 Executando -> Pronto por tempo
+23:52:50:712 : Processo4846071 Pronto -> Exec
+23:52:51:715 : Processo4846071 Executando -> Pronto por tempo
+23:52:52:718 : Processo4846071 Pronto -> Exec
+23:52:53:730 : Processo4846071 Executando -> Pronto por tempo
+23:52:54:733 : Processo4846071 Pronto -> Exec
+23:52:55:734 : Processo4846071 Executando -> Pronto por tempo
+23:52:56:737 : Processo4846071 Pronto -> Exec
+23:52:57:742 : Processo4846071 Executando -> Pronto por tempo
+23:52:58:756 : Processo4846071 Pronto -> Exec
+23:52:59:765 : Processo4846071 Executando -> Pronto por tempo
+23:53:00:781 : Processo4846071 Pronto -> Exec
+23:53:01:794 : Processo4846071 Executando -> Pronto por tempo
+23:53:02:798 : Processo4846071 Pronto -> Exec
+23:53:03:802 : Processo4846071 Executando -> Pronto por tempo
+23:53:04:803 : Processo4846071 Pronto -> Exec
+23:53:05:809 : Processo4846071 Executando -> Pronto por tempo
+23:53:06:815 : Processo4846071 Pronto -> Exec
+23:53:07:815 : Processo4846071 Executando -> Pronto por tempo
+23:53:08:831 : Processo4846071 Pronto -> Exec
+23:53:09:842 : Processo4846071 Executando -> Pronto por tempo
+23:53:10:847 : Processo4846071 Pronto -> Exec
+23:53:11:852 : Processo4846071 Executando -> Pronto por tempo
+23:53:12:859 : Processo4846071 Pronto -> Exec
+23:53:13:869 : Processo4846071 Executando -> Pronto por tempo
+23:53:14:877 : Processo4846071 Pronto -> Exec
+23:53:15:882 : Processo4846071 Executando -> Pronto por tempo
+23:53:16:888 : Processo4846071 Pronto -> Exec
+23:53:17:896 : Processo4846071 Executando -> Pronto por tempo
+23:53:18:907 : Processo4846071 Pronto -> Exec
+23:53:19:917 : Processo4846071 Executando -> Pronto por tempo
+23:53:20:920 : Processo4846071 Pronto -> Exec
+23:53:21:930 : Processo4846071 Executando -> Pronto por tempo
+23:53:22:936 : Processo4846071 Pronto -> Exec
+23:53:23:937 : Processo4846071 Executando -> Pronto por tempo
+23:53:24:943 : Processo4846071 Pronto -> Exec
+23:53:25:943 : Processo4846071 Executando -> Pronto por tempo
+23:53:26:949 : Processo4846071 Pronto -> Exec
+23:53:27:955 : Processo4846071 Executando -> Pronto por tempo
+23:53:28:956 : Processo4846071 Pronto -> Exec
+23:53:29:967 : Processo4846071 Executando -> Pronto por tempo
+23:53:30:972 : Processo4846071 Pronto -> Exec
+23:53:31:974 : Processo4846071 Executando -> Pronto por tempo
+23:53:32:976 : Processo4846071 Pronto -> Exec
+23:53:33:979 : Processo4846071 Executando -> Pronto por tempo
+23:53:34:984 : Processo4846071 Pronto -> Exec
+23:53:35:998 : Processo4846071 Executando -> Pronto por tempo
+23:53:36:998 : Processo4846071 Pronto -> Exec
+23:53:38:001 : Processo4846071 Executando -> Pronto por tempo
+23:53:39:005 : Processo4846071 Pronto -> Exec
+23:53:40:020 : Processo4846071 Executando -> Pronto por tempo
+23:53:41:025 : Processo4846071 Pronto -> Exec
+23:53:42:028 : Processo4846071 Executando -> Pronto por tempo
+23:53:43:041 : Processo4846071 Pronto -> Exec
+23:53:44:044 : Processo4846071 Executando -> Pronto por tempo
+23:53:45:049 : Processo4846071 Pronto -> Exec
+23:53:46:051 : Processo4846071 Executando -> Pronto por tempo
+23:53:47:055 : Processo4846071 Pronto -> Exec
+23:53:48:061 : Processo4846071 Executando -> Pronto por tempo
+23:53:49:072 : Processo4846071 Pronto -> Exec
+23:53:50:074 : Processo4846071 Executando -> Pronto por tempo
+23:53:51:077 : Processo4846071 Pronto -> Exec
+23:53:52:083 : Processo4846071 Executando -> Pronto por tempo
+23:53:53:085 : Processo4846071 Pronto -> Exec
+23:53:54:087 : Processo4846071 Executando -> Pronto por tempo
+23:53:55:088 : Processo4846071 Pronto -> Exec
+23:53:56:089 : Processo4846071 Executando -> Pronto por tempo
+23:53:57:090 : Processo4846071 Pronto -> Exec
+23:53:58:093 : Processo4846071 Executando -> Pronto por tempo
+23:53:59:096 : Processo4846071 Pronto -> Exec
+23:54:00:097 : Processo4846071 Executando -> Pronto por tempo
+23:54:01:099 : Processo4846071 Pronto -> Exec
+23:54:02:101 : Processo4846071 Executando -> Pronto por tempo
+23:54:03:103 : Processo4846071 Pronto -> Exec
+23:54:04:105 : Processo4846071 Executando -> Pronto por tempo
+23:54:05:107 : Processo4846071 Pronto -> Exec
+23:54:06:111 : Processo4846071 Executando -> Pronto por tempo
+23:54:07:112 : Processo4846071 Pronto -> Exec
+23:54:08:115 : Processo4846071 Executando -> Pronto por tempo
+23:54:09:116 : Processo4846071 Pronto -> Exec
+23:54:10:120 : Processo4846071 Executando -> Pronto por tempo
+23:54:11:121 : Processo4846071 Pronto -> Exec
+23:54:12:125 : Processo4846071 Executando -> Pronto por tempo
+23:54:13:126 : Processo4846071 Pronto -> Exec
+23:54:14:126 : Processo4846071 Executando -> Pronto por tempo
+23:54:15:130 : Processo4846071 Pronto -> Exec
+23:54:16:135 : Processo4846071 Executando -> Pronto por tempo
+23:54:17:150 : Processo4846071 Pronto -> Exec
+23:54:18:153 : Processo4846071 Executando -> Pronto por tempo
+23:54:19:154 : Processo4846071 Pronto -> Exec
+23:54:20:155 : Processo4846071 Executando -> Pronto por tempo
+23:54:21:160 : Processo4846071 Pronto -> Exec
+23:54:22:167 : Processo4846071 Executando -> Pronto por tempo
+23:54:23:169 : Processo4846071 Pronto -> Exec
+23:54:24:172 : Processo4846071 Executando -> Pronto por tempo
+23:54:25:187 : Processo4846071 Pronto -> Exec
+23:54:26:190 : Processo4846071 Executando -> Pronto por tempo
+23:54:27:193 : Processo4846071 Pronto -> Exec
+23:54:28:193 : Processo4846071 Executando -> Pronto por tempo
+23:54:29:197 : Processo4846071 Pronto -> Exec
+23:54:30:197 : Processo4846071 Executando -> Pronto por tempo
+23:54:31:199 : Processo4846071 Pronto -> Exec
+23:54:32:201 : Processo4846071 Executando -> Pronto por tempo
+23:54:33:204 : Processo4846071 Pronto -> Exec
+23:54:34:207 : Processo4846071 Executando -> Pronto por tempo
+23:54:35:209 : Processo4846071 Pronto -> Exec
+23:54:36:212 : Processo4846071 Executando -> Pronto por tempo
+23:54:37:214 : Processo4846071 Pronto -> Exec
+23:54:38:218 : Processo4846071 Executando -> Pronto por tempo
+23:54:39:232 : Processo4846071 Pronto -> Exec
+23:54:40:237 : Processo4846071 Executando -> Pronto por tempo
+23:54:41:238 : Processo4846071 Pronto -> Exec
+23:54:42:241 : Processo4846071 Executando -> Pronto por tempo
+23:54:43:244 : Processo4846071 Pronto -> Exec
+23:54:44:244 : Processo4846071 Executando -> Pronto por tempo
+23:54:45:246 : Processo4846071 Pronto -> Exec
+23:54:46:249 : Processo4846071 Executando -> Pronto por tempo
+23:54:47:251 : Processo4846071 Pronto -> Exec
+23:54:48:261 : Processo4846071 Executando -> Pronto por tempo
+23:54:49:264 : Processo4846071 Pronto -> Exec
+23:54:50:265 : Processo4846071 Executando -> Pronto por tempo
+23:54:51:268 : Processo4846071 Pronto -> Exec
+23:54:52:279 : Processo4846071 Executando -> Pronto por tempo
+23:54:53:294 : Processo4846071 Pronto -> Exec
+23:54:54:298 : Processo4846071 Executando -> Pronto por tempo
+23:54:55:318 : Processo4846071 Pronto -> Exec
+23:54:56:319 : Processo4846071 Executando -> Pronto por tempo
+23:54:57:321 : Processo4846071 Pronto -> Exec
+23:54:58:324 : Processo4846071 Executando -> Pronto por tempo
+23:54:59:325 : Processo4846071 Pronto -> Exec
+23:55:00:327 : Processo4846071 Executando -> Pronto por tempo
+23:55:01:328 : Processo4846071 Pronto -> Exec
+23:55:02:328 : Processo4846071 Executando -> Pronto por tempo
+23:55:03:335 : Processo4846071 Pronto -> Exec
+23:55:04:335 : Processo4846071 Executando -> Pronto por tempo
+23:55:05:337 : Processo4846071 Pronto -> Exec
+23:55:06:340 : Processo4846071 Executando -> Pronto por tempo
+23:55:07:356 : Processo4846071 Pronto -> Exec
+23:55:08:359 : Processo4846071 Executando -> Pronto por tempo
+23:55:09:363 : Processo4846071 Pronto -> Exec
+23:55:10:368 : Processo4846071 Executando -> Pronto por tempo
+23:55:11:371 : Processo4846071 Pronto -> Exec
+23:55:12:372 : Processo4846071 Executando -> Pronto por tempo
+23:55:13:388 : Processo4846071 Pronto -> Exec
+23:55:14:394 : Processo4846071 Executando -> Pronto por tempo
+23:55:15:408 : Processo4846071 Pronto -> Exec
+23:55:16:411 : Processo4846071 Executando -> Pronto por tempo
+23:55:17:412 : Processo4846071 Pronto -> Exec
+23:55:18:416 : Processo4846071 Executando -> Pronto por tempo
+23:55:19:420 : Processo4846071 Pronto -> Exec
+23:55:20:428 : Processo4846071 Executando -> Pronto por tempo
+23:55:21:437 : Processo4846071 Pronto -> Exec
+23:55:22:453 : Processo4846071 Executando -> Pronto por tempo
+23:55:23:458 : Processo4846071 Pronto -> Exec
+23:55:24:459 : Processo4846071 Executando -> Pronto por tempo
+23:55:25:466 : Processo4846071 Pronto -> Exec
+23:55:26:468 : Processo4846071 Executando -> Pronto por tempo
+23:55:27:471 : Processo4846071 Pronto -> Exec
+23:55:28:478 : Processo4846071 Executando -> Pronto por tempo
+23:55:29:484 : Processo4846071 Pronto -> Exec
+23:55:30:485 : Processo4846071 Executando -> Pronto por tempo
+23:55:31:489 : Processo4846071 Pronto -> Exec
+23:55:32:489 : Processo4846071 Executando -> Pronto por tempo
+23:55:33:492 : Processo4846071 Pronto -> Exec
+23:55:34:503 : Processo4846071 Executando -> Pronto por tempo

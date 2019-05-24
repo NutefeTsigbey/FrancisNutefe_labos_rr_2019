@@ -1,0 +1,397 @@
+21:32:55:902 : Starting SOsim...
+21:33:00:706 : SOsim ready at 21:33:00:706
+21:35:06:893 : Process 3506893 alocating blocks in pagefile
+21:35:06:893 : Process 3506893 HwPF - Image 0
+21:35:06:894 : Process 3506893 HwPF - Image 1
+21:35:06:895 : Process 3506893 HwPF - Image 2
+21:35:06:895 : Process 3506893 HwPF - Image 3
+21:35:06:896 : Process 3506893 HwPF - Image 4
+21:35:06:896 : Process 3506893 created
+21:35:18:525 : Process 3518525 alocating blocks in pagefile
+21:35:18:525 : Process 3518525 HwPF - Image 0
+21:35:18:525 : Process 3518525 HwPF - Image 1
+21:35:18:526 : Process 3518525 HwPF - Image 2
+21:35:18:526 : Process 3518525 HwPF - Image 3
+21:35:18:629 : Process 3518525 HwPF - Image 4
+21:35:18:636 : Process 3518525 created
+21:35:20:564 : Process 3506893 Ready -> Running 
+21:35:21:238 : Process 3506893 Running -> Ready by time
+21:35:22:239 : Process 3518525 Ready -> Running 
+21:35:23:240 : Process 3518525 Running -> Ready by time
+21:35:24:241 : Process 3506893 Ready -> Running 
+21:35:25:242 : Process 3506893 Running -> Ready by time
+21:35:26:242 : Process 3518525 Ready -> Running 
+21:35:27:242 : Process 3518525 Running -> Ready by time
+21:35:28:243 : Process 3506893 Ready -> Running 
+21:35:29:244 : Process 3506893 Running -> Ready by time
+21:35:30:244 : Process 3518525 Ready -> Running 
+21:35:31:245 : Process 3518525 Running -> Ready by time
+21:35:32:246 : Process 3506893 Ready -> Running 
+21:35:36:049 : Process 3506893 Running -> Ready by time
+21:35:36:449 : Process 3518525 Ready -> Running 
+21:35:38:853 : Process 3518525 Running -> Ready by time
+21:35:39:253 : Process 3506893 Ready -> Running 
+21:35:41:655 : Process 3506893 Running -> Ready by time
+21:35:42:057 : Process 3518525 Ready -> Running 
+21:35:44:461 : Process 3518525 Running -> Ready by time
+21:35:44:862 : Process 3506893 Ready -> Running 
+21:35:47:266 : Process 3506893 Running -> Ready by time
+21:35:47:666 : Process 3518525 Ready -> Running 
+21:35:50:069 : Process 3518525 Running -> Ready by time
+21:35:50:470 : Process 3506893 Ready -> Running 
+21:35:52:881 : Process 3506893 Running -> Ready by time
+21:35:53:282 : Process 3518525 Ready -> Running 
+21:35:55:686 : Process 3518525 Running -> Ready by time
+21:35:56:086 : Process 3506893 Ready -> Running 
+21:35:58:489 : Process 3506893 Running -> Ready by time
+21:35:58:890 : Process 3518525 Ready -> Running 
+21:36:01:295 : Process 3518525 Running -> Ready by time
+21:36:01:696 : Process 3506893 Ready -> Running 
+21:36:04:099 : Process 3506893 Running -> Ready by time
+21:36:04:500 : Process 3518525 Ready -> Running 
+21:36:06:903 : Process 3518525 Running -> Ready by time
+21:36:07:304 : Process 3506893 Ready -> Running 
+21:36:09:708 : Process 3506893 Running -> Ready by time
+21:36:10:108 : Process 3518525 Ready -> Running 
+21:36:12:513 : Process 3518525 Running -> Ready by time
+21:36:12:914 : Process 3506893 Ready -> Running 
+21:36:15:318 : Process 3506893 Running -> Ready by time
+21:36:15:719 : Process 3518525 Ready -> Running 
+21:36:18:122 : Process 3518525 Running -> Ready by time
+21:36:18:523 : Process 3506893 Ready -> Running 
+21:36:20:927 : Process 3506893 Running -> Ready by time
+21:36:21:328 : Process 3518525 Ready -> Running 
+21:36:23:731 : Process 3518525 Running -> Ready by time
+21:36:24:132 : Process 3506893 Ready -> Running 
+21:36:26:539 : Process 3506893 Running -> Ready by time
+21:36:26:939 : Process 3518525 Ready -> Running 
+21:36:29:343 : Process 3518525 Running -> Ready by time
+21:36:29:743 : Process 3506893 Ready -> Running 
+21:36:32:148 : Process 3506893 Running -> Ready by time
+21:36:32:549 : Process 3518525 Ready -> Running 
+21:36:34:966 : Process 3518525 Running -> Ready by time
+21:36:35:366 : Process 3506893 Ready -> Running 
+21:36:37:770 : Process 3506893 Running -> Ready by time
+21:36:38:170 : Process 3518525 Ready -> Running 
+21:36:40:574 : Process 3518525 Running -> Ready by time
+21:36:40:974 : Process 3506893 Ready -> Running 
+21:36:43:377 : Process 3506893 Running -> Ready by time
+21:36:43:777 : Process 3518525 Ready -> Running 
+21:36:46:180 : Process 3518525 Running -> Ready by time
+21:36:46:581 : Process 3506893 Ready -> Running 
+21:36:48:984 : Process 3506893 Running -> Ready by time
+21:36:49:384 : Process 3518525 Ready -> Running 
+21:36:51:787 : Process 3518525 Running -> Ready by time
+21:36:52:188 : Process 3506893 Ready -> Running 
+21:36:54:592 : Process 3506893 Running -> Ready by time
+21:36:54:993 : Process 3518525 Ready -> Running 
+21:36:57:395 : Process 3518525 Running -> Ready by time
+21:36:57:796 : Process 3506893 Ready -> Running 
+21:37:00:198 : Process 3506893 Running -> Ready by time
+21:37:00:599 : Process 3518525 Ready -> Running 
+21:37:03:004 : Process 3518525 Running -> Ready by time
+21:37:03:405 : Process 3506893 Ready -> Running 
+21:37:05:809 : Process 3506893 Running -> Ready by time
+21:37:06:210 : Process 3518525 Ready -> Running 
+21:37:08:614 : Process 3518525 Running -> Ready by time
+21:37:09:014 : Process 3506893 Ready -> Running 
+21:37:11:417 : Process 3506893 Running -> Ready by time
+21:37:11:817 : Process 3518525 Ready -> Running 
+21:37:14:221 : Process 3518525 Running -> Ready by time
+21:37:14:622 : Process 3506893 Ready -> Running 
+21:37:17:030 : Process 3506893 Running -> Ready by time
+21:37:17:430 : Process 3518525 Ready -> Running 
+21:37:19:834 : Process 3518525 Running -> Ready by time
+21:37:20:234 : Process 3506893 Ready -> Running 
+21:37:22:636 : Process 3506893 Running -> Ready by time
+21:37:23:037 : Process 3518525 Ready -> Running 
+21:37:25:439 : Process 3518525 Running -> Ready by time
+21:37:25:839 : Process 3506893 Ready -> Running 
+21:37:28:241 : Process 3506893 Running -> Ready by time
+21:37:28:641 : Process 3518525 Ready -> Running 
+21:37:31:045 : Process 3518525 Running -> Ready by time
+21:37:31:445 : Process 3506893 Ready -> Running 
+21:37:33:848 : Process 3506893 Running -> Ready by time
+21:37:34:249 : Process 3518525 Ready -> Running 
+21:37:36:653 : Process 3518525 Running -> Ready by time
+21:37:37:054 : Process 3506893 Ready -> Running 
+21:37:39:458 : Process 3506893 Running -> Ready by time
+21:37:39:859 : Process 3518525 Ready -> Running 
+21:37:42:261 : Process 3518525 Running -> Ready by time
+21:37:42:662 : Process 3506893 Ready -> Running 
+21:37:45:065 : Process 3506893 Running -> Ready by time
+21:37:45:466 : Process 3518525 Ready -> Running 
+21:37:47:867 : Process 3518525 Running -> Ready by time
+21:37:48:268 : Process 3506893 Ready -> Running 
+21:37:50:671 : Process 3506893 Running -> Ready by time
+21:37:51:071 : Process 3518525 Ready -> Running 
+21:37:53:474 : Process 3518525 Running -> Ready by time
+21:37:53:875 : Process 3506893 Ready -> Running 
+21:37:56:278 : Process 3506893 Running -> Ready by time
+21:37:56:679 : Process 3518525 Ready -> Running 
+21:37:59:082 : Process 3518525 Running -> Ready by time
+21:37:59:484 : Process 3506893 Ready -> Running 
+21:38:01:889 : Process 3506893 Running -> Ready by time
+21:38:02:290 : Process 3518525 Ready -> Running 
+21:38:04:694 : Process 3518525 Running -> Ready by time
+21:38:05:095 : Process 3506893 Ready -> Running 
+21:38:07:498 : Process 3506893 Running -> Ready by time
+21:38:07:899 : Process 3518525 Ready -> Running 
+21:38:10:304 : Process 3518525 Running -> Ready by time
+21:38:10:704 : Process 3506893 Ready -> Running 
+21:38:13:107 : Process 3506893 Running -> Ready by time
+21:38:13:508 : Process 3518525 Ready -> Running 
+21:38:15:909 : Process 3518525 Running -> Ready by time
+21:38:16:310 : Process 3506893 Ready -> Running 
+21:38:18:711 : Process 3506893 Running -> Ready by time
+21:38:19:112 : Process 3518525 Ready -> Running 
+21:38:21:516 : Process 3518525 Running -> Ready by time
+21:38:21:916 : Process 3506893 Ready -> Running 
+21:38:24:319 : Process 3506893 Running -> Ready by time
+21:38:24:720 : Process 3518525 Ready -> Running 
+21:38:27:123 : Process 3518525 Running -> Ready by time
+21:38:27:523 : Process 3506893 Ready -> Running 
+21:38:29:925 : Process 3506893 Running -> Ready by time
+21:38:30:325 : Process 3518525 Ready -> Running 
+21:38:32:727 : Process 3518525 Running -> Ready by time
+21:38:33:127 : Process 3506893 Ready -> Running 
+21:38:35:531 : Process 3506893 Running -> Ready by time
+21:38:35:932 : Process 3518525 Ready -> Running 
+21:38:38:334 : Process 3518525 Running -> Ready by time
+21:38:38:734 : Process 3506893 Ready -> Running 
+21:38:41:137 : Process 3506893 Running -> Ready by time
+21:38:41:538 : Process 3518525 Ready -> Running 
+21:38:43:943 : Process 3518525 Running -> Ready by time
+21:38:44:344 : Process 3506893 Ready -> Running 
+21:38:46:746 : Process 3506893 Running -> Ready by time
+21:38:47:146 : Process 3518525 Ready -> Running 
+21:38:49:550 : Process 3518525 Running -> Ready by time
+21:38:49:950 : Process 3506893 Ready -> Running 
+21:38:52:353 : Process 3506893 Running -> Ready by time
+21:38:52:754 : Process 3518525 Ready -> Running 
+21:38:55:158 : Process 3518525 Running -> Ready by time
+21:38:55:558 : Process 3506893 Ready -> Running 
+21:38:57:959 : Process 3506893 Running -> Ready by time
+21:38:58:360 : Process 3518525 Ready -> Running 
+21:39:00:761 : Process 3518525 Running -> Ready by time
+21:39:01:161 : Process 3506893 Ready -> Running 
+21:39:03:564 : Process 3506893 Running -> Ready by time
+21:39:03:964 : Process 3518525 Ready -> Running 
+21:39:06:369 : Process 3518525 Running -> Ready by time
+21:39:06:770 : Process 3506893 Ready -> Running 
+21:39:09:173 : Process 3506893 Running -> Ready by time
+21:39:09:574 : Process 3518525 Ready -> Running 
+21:39:11:978 : Process 3518525 Running -> Ready by time
+21:39:12:379 : Process 3506893 Ready -> Running 
+21:39:14:782 : Process 3506893 Running -> Ready by time
+21:39:15:182 : Process 3518525 Ready -> Running 
+21:39:17:585 : Process 3518525 Running -> Ready by time
+21:39:17:986 : Process 3506893 Ready -> Running 
+21:39:20:389 : Process 3506893 Running -> Ready by time
+21:39:20:789 : Process 3518525 Ready -> Running 
+21:39:23:191 : Process 3518525 Running -> Ready by time
+21:39:23:592 : Process 3506893 Ready -> Running 
+21:39:26:000 : Process 3506893 Running -> Ready by time
+21:39:26:400 : Process 3518525 Ready -> Running 
+21:39:28:803 : Process 3518525 Running -> Ready by time
+21:39:29:204 : Process 3506893 Ready -> Running 
+21:39:31:607 : Process 3506893 Running -> Ready by time
+21:39:32:007 : Process 3518525 Ready -> Running 
+21:39:34:410 : Process 3518525 Running -> Ready by time
+21:39:34:810 : Process 3506893 Ready -> Running 
+21:39:37:216 : Process 3506893 Running -> Ready by time
+21:39:37:616 : Process 3518525 Ready -> Running 
+21:39:40:019 : Process 3518525 Running -> Ready by time
+21:39:40:419 : Process 3506893 Ready -> Running 
+21:39:42:823 : Process 3506893 Running -> Ready by time
+21:39:43:223 : Process 3518525 Ready -> Running 
+21:39:45:628 : Process 3518525 Running -> Ready by time
+21:39:46:028 : Process 3506893 Ready -> Running 
+21:39:48:433 : Process 3506893 Running -> Ready by time
+21:39:48:834 : Process 3518525 Ready -> Running 
+21:39:51:238 : Process 3518525 Running -> Ready by time
+21:39:51:639 : Process 3506893 Ready -> Running 
+21:39:54:043 : Process 3506893 Running -> Ready by time
+21:39:54:444 : Process 3518525 Ready -> Running 
+21:39:56:848 : Process 3518525 Running -> Ready by time
+21:39:57:249 : Process 3506893 Ready -> Running 
+21:39:59:653 : Process 3506893 Running -> Ready by time
+21:40:00:054 : Process 3518525 Ready -> Running 
+21:40:02:458 : Process 3518525 Running -> Ready by time
+21:40:02:859 : Process 3506893 Ready -> Running 
+21:40:05:262 : Process 3506893 Running -> Ready by time
+21:40:05:663 : Process 3518525 Ready -> Running 
+21:40:08:067 : Process 3518525 Running -> Ready by time
+21:40:08:468 : Process 3506893 Ready -> Running 
+21:40:10:872 : Process 3506893 Running -> Ready by time
+21:40:11:273 : Process 3518525 Ready -> Running 
+21:40:13:678 : Process 3518525 Running -> Ready by time
+21:40:14:079 : Process 3506893 Ready -> Running 
+21:40:16:482 : Process 3506893 Running -> Ready by time
+21:40:16:882 : Process 3518525 Ready -> Running 
+21:40:19:285 : Process 3518525 Running -> Ready by time
+21:40:19:686 : Process 3506893 Ready -> Running 
+21:40:22:091 : Process 3506893 Running -> Ready by time
+21:40:22:491 : Process 3518525 Ready -> Running 
+21:40:24:895 : Process 3518525 Running -> Ready by time
+21:40:25:296 : Process 3506893 Ready -> Running 
+21:40:27:700 : Process 3506893 Running -> Ready by time
+21:40:28:101 : Process 3518525 Ready -> Running 
+21:40:30:504 : Process 3518525 Running -> Ready by time
+21:40:30:905 : Process 3506893 Ready -> Running 
+21:40:33:309 : Process 3506893 Running -> Ready by time
+21:40:33:710 : Process 3518525 Ready -> Running 
+21:40:36:113 : Process 3518525 Running -> Ready by time
+21:40:36:514 : Process 3506893 Ready -> Running 
+21:40:38:917 : Process 3506893 Running -> Ready by time
+21:40:39:318 : Process 3518525 Ready -> Running 
+21:40:41:723 : Process 3518525 Running -> Ready by time
+21:40:42:123 : Process 3506893 Ready -> Running 
+21:40:44:527 : Process 3506893 Running -> Ready by time
+21:40:44:928 : Process 3518525 Ready -> Running 
+21:40:47:332 : Process 3518525 Running -> Ready by time
+21:40:47:733 : Process 3506893 Ready -> Running 
+21:40:50:136 : Process 3506893 Running -> Ready by time
+21:40:50:537 : Process 3518525 Ready -> Running 
+21:40:52:940 : Process 3518525 Running -> Ready by time
+21:40:53:341 : Process 3506893 Ready -> Running 
+21:40:55:744 : Process 3506893 Running -> Ready by time
+21:40:56:145 : Process 3518525 Ready -> Running 
+21:40:58:548 : Process 3518525 Running -> Ready by time
+21:40:58:949 : Process 3506893 Ready -> Running 
+21:41:01:353 : Process 3506893 Running -> Ready by time
+21:41:01:754 : Process 3518525 Ready -> Running 
+21:41:04:158 : Process 3518525 Running -> Ready by time
+21:41:04:558 : Process 3506893 Ready -> Running 
+21:41:06:963 : Process 3506893 Running -> Ready by time
+21:41:07:363 : Process 3518525 Ready -> Running 
+21:41:09:766 : Process 3518525 Running -> Ready by time
+21:41:10:167 : Process 3506893 Ready -> Running 
+21:41:12:571 : Process 3506893 Running -> Ready by time
+21:41:12:972 : Process 3518525 Ready -> Running 
+21:41:15:376 : Process 3518525 Running -> Ready by time
+21:41:15:776 : Process 3506893 Ready -> Running 
+21:41:18:181 : Process 3506893 Running -> Ready by time
+21:41:18:581 : Process 3518525 Ready -> Running 
+21:41:20:985 : Process 3518525 Running -> Ready by time
+21:41:21:386 : Process 3506893 Ready -> Running 
+21:41:23:790 : Process 3506893 Running -> Ready by time
+21:41:24:191 : Process 3518525 Ready -> Running 
+21:41:26:601 : Process 3518525 Running -> Ready by time
+21:41:27:001 : Process 3506893 Ready -> Running 
+21:41:29:406 : Process 3506893 Running -> Ready by time
+21:41:29:807 : Process 3518525 Ready -> Running 
+21:41:32:211 : Process 3518525 Running -> Ready by time
+21:41:32:612 : Process 3506893 Ready -> Running 
+21:41:35:015 : Process 3506893 Running -> Ready by time
+21:41:35:415 : Process 3518525 Ready -> Running 
+21:41:37:819 : Process 3518525 Running -> Ready by time
+21:41:38:220 : Process 3506893 Ready -> Running 
+21:41:40:624 : Process 3506893 Running -> Ready by time
+21:41:41:025 : Process 3518525 Ready -> Running 
+21:41:43:430 : Process 3518525 Running -> Ready by time
+21:41:43:831 : Process 3506893 Ready -> Running 
+21:41:46:235 : Process 3506893 Running -> Ready by time
+21:41:46:636 : Process 3518525 Ready -> Running 
+21:41:49:041 : Process 3518525 Running -> Ready by time
+21:41:49:441 : Process 3506893 Ready -> Running 
+21:41:51:846 : Process 3506893 Running -> Ready by time
+21:41:52:247 : Process 3518525 Ready -> Running 
+21:41:54:651 : Process 3518525 Running -> Ready by time
+21:41:55:052 : Process 3506893 Ready -> Running 
+21:41:57:457 : Process 3506893 Running -> Ready by time
+21:41:57:858 : Process 3518525 Ready -> Running 
+21:42:00:262 : Process 3518525 Running -> Ready by time
+21:42:00:663 : Process 3506893 Ready -> Running 
+21:42:03:068 : Process 3506893 Running -> Ready by time
+21:42:03:468 : Process 3518525 Ready -> Running 
+21:42:05:873 : Process 3518525 Running -> Ready by time
+21:42:06:274 : Process 3506893 Ready -> Running 
+21:42:08:678 : Process 3506893 Running -> Ready by time
+21:42:09:079 : Process 3518525 Ready -> Running 
+21:42:11:484 : Process 3518525 Running -> Ready by time
+21:42:11:885 : Process 3506893 Ready -> Running 
+21:42:14:289 : Process 3506893 Running -> Ready by time
+21:42:14:690 : Process 3518525 Ready -> Running 
+21:42:17:095 : Process 3518525 Running -> Ready by time
+21:42:17:495 : Process 3506893 Ready -> Running 
+21:42:19:900 : Process 3506893 Running -> Ready by time
+21:42:20:301 : Process 3518525 Ready -> Running 
+21:42:22:705 : Process 3518525 Running -> Ready by time
+21:42:23:106 : Process 3506893 Ready -> Running 
+21:42:25:511 : Process 3506893 Running -> Ready by time
+21:42:25:912 : Process 3518525 Ready -> Running 
+21:42:28:316 : Process 3518525 Running -> Ready by time
+21:42:28:717 : Process 3506893 Ready -> Running 
+21:42:31:122 : Process 3506893 Running -> Ready by time
+21:42:31:522 : Process 3518525 Ready -> Running 
+21:42:33:927 : Process 3518525 Running -> Ready by time
+21:42:34:328 : Process 3506893 Ready -> Running 
+21:42:36:732 : Process 3506893 Running -> Ready by time
+21:42:37:133 : Process 3518525 Ready -> Running 
+21:42:39:538 : Process 3518525 Running -> Ready by time
+21:42:39:939 : Process 3506893 Ready -> Running 
+21:42:42:343 : Process 3506893 Running -> Ready by time
+21:42:42:744 : Process 3518525 Ready -> Running 
+21:42:45:149 : Process 3518525 Running -> Ready by time
+21:42:45:549 : Process 3506893 Ready -> Running 
+21:42:47:954 : Process 3506893 Running -> Ready by time
+21:42:48:355 : Process 3518525 Ready -> Running 
+21:42:50:759 : Process 3518525 Running -> Ready by time
+21:42:51:160 : Process 3506893 Ready -> Running 
+21:42:53:565 : Process 3506893 Running -> Ready by time
+21:42:53:966 : Process 3518525 Ready -> Running 
+21:42:56:370 : Process 3518525 Running -> Ready by time
+21:42:56:771 : Process 3506893 Ready -> Running 
+21:42:59:176 : Process 3506893 Running -> Ready by time
+21:42:59:576 : Process 3518525 Ready -> Running 
+21:43:01:981 : Process 3518525 Running -> Ready by time
+21:43:02:382 : Process 3506893 Ready -> Running 
+21:43:04:786 : Process 3506893 Running -> Ready by time
+21:43:05:187 : Process 3518525 Ready -> Running 
+21:43:07:592 : Process 3518525 Running -> Ready by time
+21:43:07:993 : Process 3506893 Ready -> Running 
+21:43:10:397 : Process 3506893 Running -> Ready by time
+21:43:10:798 : Process 3518525 Ready -> Running 
+21:43:13:203 : Process 3518525 Running -> Ready by time
+21:43:13:603 : Process 3506893 Ready -> Running 
+21:43:16:008 : Process 3506893 Running -> Ready by time
+21:43:16:409 : Process 3518525 Ready -> Running 
+21:43:18:813 : Process 3518525 Running -> Ready by time
+21:43:19:214 : Process 3506893 Ready -> Running 
+21:43:21:626 : Process 3506893 Running -> Ready by time
+21:43:22:027 : Process 3518525 Ready -> Running 
+21:43:24:431 : Process 3518525 Running -> Ready by time
+21:43:24:832 : Process 3506893 Ready -> Running 
+21:43:27:237 : Process 3506893 Running -> Ready by time
+21:43:27:637 : Process 3518525 Ready -> Running 
+21:43:30:042 : Process 3518525 Running -> Ready by time
+21:43:30:443 : Process 3506893 Ready -> Running 
+21:43:32:869 : Process 3506893 Running -> Ready by time
+21:43:33:270 : Process 3518525 Ready -> Running 
+21:43:35:674 : Process 3518525 Running -> Ready by time
+21:43:36:075 : Process 3506893 Ready -> Running 
+21:43:38:480 : Process 3506893 Running -> Ready by time
+21:43:38:880 : Process 3518525 Ready -> Running 
+21:43:41:285 : Process 3518525 Running -> Ready by time
+21:43:41:686 : Process 3506893 Ready -> Running 
+21:43:44:090 : Process 3506893 Running -> Ready by time
+21:43:44:491 : Process 3518525 Ready -> Running 
+21:43:46:896 : Process 3518525 Running -> Ready by time
+21:43:47:297 : Process 3506893 Ready -> Running 
+21:43:49:701 : Process 3506893 Running -> Ready by time
+21:43:50:102 : Process 3518525 Ready -> Running 
+21:43:52:507 : Process 3518525 Running -> Ready by time
+21:43:52:907 : Process 3506893 Ready -> Running 
+21:43:55:312 : Process 3506893 Running -> Ready by time
+21:43:55:713 : Process 3518525 Ready -> Running 
+21:43:58:117 : Process 3518525 Running -> Ready by time
+21:43:58:518 : Process 3506893 Ready -> Running 
+21:44:00:923 : Process 3506893 Running -> Ready by time
+21:44:01:324 : Process 3518525 Ready -> Running 
+21:44:03:728 : Process 3518525 Running -> Ready by time
+21:44:04:129 : Process 3506893 Ready -> Running 
+21:44:06:534 : Process 3506893 Running -> Ready by time
+21:44:06:934 : Process 3518525 Ready -> Running 
+21:44:09:339 : Process 3518525 Running -> Ready by time
+21:44:09:740 : Process 3506893 Ready -> 

@@ -1,0 +1,11 @@
+O algoritmo do banqueiro é executado pelo sistema operacional quando um processo de computação precisa de recursos.
+
+O algoritmo impede o impasse, ao negar ou adiar o pedido se ele determinar que acei-tar o pedido pode colocar osistema em um estado inseguro onde um impasse poderia ocorrer. Quando um novo processo entra em um sistema,ele deve declarar o número máximo de instâncias de cada tipo de recurso que não pode exceder o número total derecursos no sistema. Para o algoritmo do banqueiro trabalhar, ele precisa saber três coisas:
+•Quanto de cada recurso cada processo poderia solicitar
+•Quanto de cada recurso cada processo atualmente detém
+•Quanto de cada recurso o sistema tem disponível
+Recursos podem ser atribuídos a um processo somente se forem preenchidas as se-guintes condições:
+1-Pedido máximo, senão ajuste a condição de erro definida como o processo ul-trapassou a quantidade máxima feita por ele.
+2-Pedido disponível, senão o processo tem que esperar até que mais recursos estejam disponíveis.
+Alguns dos recursos que são controlados em sistemas reais são memória, semáforos e interfaces de acesso.
+

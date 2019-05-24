@@ -1,0 +1,2 @@
+O problema de starvation pode ocorrer porque o nivel de prioridade dos Processos são diferentes (CPU-bound 4 > I/O-bound 3)
+Uma solução bastante simples para esse problema é a criação de filas de pedidos de alocação para cada recurso. Ou  igualar a prioridade do processo que estava em starvation.
